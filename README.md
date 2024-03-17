@@ -1,11 +1,11 @@
 ![project](https://github.com/MANISANKARDIVI/Board-Game/assets/110891364/5f13d5de-afb3-4f14-b953-c8ed54d63e2e)
 
 ############################################################################################################################################################################
+
 prerequisite For Laptop or PC:
 ``````````````````````````````
 Min ram = 8+
 Min cpu = I3,  4-core cpu
-
 while using your laptop / pc will behave slow, be patience.
 
 WSL commands:-
