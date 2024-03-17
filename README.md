@@ -9,8 +9,8 @@ Min cpu = I3,  4-core cpu
 while using your laptop / pc will behave slow, be patience.
 
 
-WSL commands:-
-````````````````
+WSL commands:
+````````````
 $ wsl --install
 
 $ wsl --update
@@ -21,8 +21,8 @@ $ wsl --install -d Ubuntu-22.04
 
 
 
-Installation of Java & Maven:-
-```````````````````````````````
+Installation of Java & Maven:
+`````````````````````````````
 $ sudo apt update -y && sudo apt upgrade -y
 
 $ sudo su -
@@ -31,7 +31,7 @@ $ sudo apt install openjdk-17-jre-headless -y
 
 $ sudo apt install maven -y
 
-Docker Installation steps:-
+Docker Installation steps:
 `````````````````````````
 
 $ vi dockerscript.sh && chmod +x dockerscript.sh
