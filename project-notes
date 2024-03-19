@@ -133,10 +133,6 @@ $ docker ps
 
 $ localhost:9000
 
-sonar-token = squ_a41d922ea1628b68a5cef2bdefbe588a267f8dee
-
-app passwd = vykk fnok qfdz rjqw
-
 
 pipeline Syntax:-
 ```````````````````
