@@ -132,7 +132,7 @@ Artifact Deployer
 
 
 
-Declarative Pipeline syntax:-
+#Declarative Pipeline syntax:-
 ``````````````````````````````
 
 pipeline {
